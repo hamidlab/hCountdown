@@ -5,12 +5,12 @@ Countdown with alphabets
 
 ### Usage
 
-  // HTML
-  <span class="hcountdown" data-hcountdown-from="azazazaz" data-hcountdown-to="zazazaza"></span>
+    // HTML
+    <span class="hcountdown" data-hcountdown-from="azazazaz" data-hcountdown-to="zazazaza"></span>
 
-  // Javascript
-  $('.hcountdown').hCountdown();
+    // Javascript
+    $('.hcountdown').hCountdown();
 
 ### Dependencies
-  - [jQuery]
-  [jQuery]: http://jquery.com/
+    - [jQuery]
+    [jQuery]: http://jquery.com/
