@@ -15,7 +15,7 @@
     });
   }
   playCountdown();
-  $('.hcountdown').on('click', function(e){
+  $('.start-countDown').on('click', function(e){
     e.preventDefault();
     playCountdown();
   });
