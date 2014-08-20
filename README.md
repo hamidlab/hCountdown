@@ -12,5 +12,5 @@ Countdown with alphabets
     $('.hcountdown').hCountdown();
 
 ### Dependencies
-    - [jQuery]
-    [jQuery]: http://jquery.com/
+  - [jQuery]
+  [jQuery]: http://jquery.com/
